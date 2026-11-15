@@ -1,0 +1,45 @@
+# Compiled Java files and packages
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+
+# Eclipse workspace and project settings
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+.project
+.classpath
+.factorypath
+
+# External tool builders and launch configurations
+.externalToolBuilders/
+*.launch
+
+# Annotation processing and Spring Tool Suite (STS)
+.apt_generated/
+.apt_generated_tests/
+.springBeans
+.sts4-cache/
+
+# Build tools (uncomment if using Maven or Gradle)
+# target/
+# build/
+# .gradle/
+
+# Operating system files
+.DS_Store
+Thumbs.db
